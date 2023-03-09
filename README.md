@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gatsumomo&label=Profile%20views&color=0e75b6&style=flat" alt="gatsumomo" /> </p>
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/ariana-rodriguez-carmona/](https://www.linkedin.com/in/ariana-rodriguez-carmona/)
+<p align="center"> - 📝 I regularly write articles on [https://www.linkedin.com/in/ariana-rodriguez-carmona/](https://www.linkedin.com/in/ariana-rodriguez-carmona/)</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
