@@ -1,5 +1,5 @@
 <h1 align="center">❄️ Hi!, Welcome to my profile! ❄️</h1>
-<h3 align="left">A passionate Full-stack and Java developer currently pursuing a Bachelor's degree in engineering at UNED, Spain. I'm interested in web development, with expierence in programming languages oriented to software and hardware, with knowledge in design and edition.</h3></br>
+<h3 align="left">A passionate Full-stack and Java developer currently pursuing a Bachelor's degree in Computer engineering at UNED, Spain. I'm interested in web development, with expierence in programming languages oriented to software and hardware, with knowledge in design and edition.</h3></br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gatsumomo&label=Profile%20views&color=0e75b6&style=flat" alt="gatsumomo" /> </p>
 
